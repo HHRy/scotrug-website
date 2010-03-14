@@ -1,3 +1,0 @@
-[submodule "vendor/extensions/liveblog"]
-	path = vendor/extensions/liveblog
-	url = http://github.com/HHRy/radiant-liveblog-extension.git
