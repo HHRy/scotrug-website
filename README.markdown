@@ -1,3 +1,3 @@
 #Scottish Ruby User Group Website
 
-Requires Radiant 0.9.0.
+Requires Radiant 0.9  RC 2 
